@@ -635,12 +635,12 @@ const db_forums = [
     {
         title: "星辰论坛",
         url: "https://www.mcbbs.website/",
-        state: "failure",
+        state: "up",
         createdAt: "2024/03/13",
         updatedAt: "2024/03/17",
-        hasICP: "no",
+        hasICP: "yes",
         hasNetSec: "no",
-        note: "",
+        note: "欢迎加入我们，一起打造新的mc论坛",
         reference: [
             {
                 title: "我的世界中文论坛-星辰论坛开站",
